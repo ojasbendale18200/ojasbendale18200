@@ -47,14 +47,17 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white")
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
 
 
 # Tools :-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Vs-Code](https://img.shields.io/badge/vscode-%23E34F26.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white")
 
 # Backend :-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white) 
