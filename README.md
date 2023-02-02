@@ -15,7 +15,7 @@
   <a href="https://github.com/ojasbendale18200">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://kiranwankhade.github.io/">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
