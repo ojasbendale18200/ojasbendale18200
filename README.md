@@ -15,7 +15,7 @@
   <a href="https://github.com/ojasbendale18200">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="">
+  <a href="https://ojasbendale18200.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
@@ -32,7 +32,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://kiranwankhade.github.io/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio]https://ojasbendale18200.github.io/)
 
 - 📫 How to reach me- 📧-ojasbendale18200@gmail.com 📌[Linkedin](https://www.linkedin.com/in/ojasbendale/)
 
