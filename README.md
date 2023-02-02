@@ -34,7 +34,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://ojasbendale18200.github.io/)
 
-- 📫 How to reach me- 📧-ojasbendale18200@gmail.com 📌[Linkedin](https://www.linkedin.com/in/ojasbendale/)
+- 📫 How to reach me- 📧 ojasbendale18200@gmail.com 📌[Linkedin](https://www.linkedin.com/in/ojasbendale/)
 
 - 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1Eu835JLzDCExeAIP5hLq-r4VbbNxvhvv/view?usp=share_link)
 <br>
