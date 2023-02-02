@@ -32,7 +32,7 @@ From Maharashtra,India.Full Stack Web Developer with 1000+ hours of coding exper
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio]https://ojasbendale18200.github.io/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://ojasbendale18200.github.io/)
 
 - 📫 How to reach me- 📧-ojasbendale18200@gmail.com 📌[Linkedin](https://www.linkedin.com/in/ojasbendale/)
 
