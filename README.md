@@ -32,11 +32,11 @@ Full Stack Web Developer with 1000+ hours of coding experience, passion for buil
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://ojasbendale18200.github.io/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://ojas-bendale-portfolio.vercel.app/)
 
 - 📫 How to reach me- 📧 ojasbendale18200@gmail.com 📌[Linkedin](https://www.linkedin.com/in/ojasbendale/)
 
-- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/17pL_qb8DTmZvNZb5xhAd63DGuAObwPZo/view?usp=share_link)
+- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/14_thdlFiDWeK8vNbgTB9wI4hxIYaoJ5d/view?usp=sharing)
 <br>
 
 
